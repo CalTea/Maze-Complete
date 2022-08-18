@@ -1,12 +1,4 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+TITLE: Java, Maze Game
+PURPOSE: This project was undertaken during college in order to strengthen my understanding of the Java programming language.
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+The programme was created with the BlueJ IDE. Make sure that upon cloning, that all files are compiled, then launch through the "Maze.java" file (main function).
