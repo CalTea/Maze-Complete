@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Map
+comment1.params=theFileName
+comment1.target=Map(java.lang.String)
+comment2.params=
+comment2.target=java.awt.Image\ getFloor()
+comment3.params=
+comment3.target=java.awt.Image\ getWall()
+comment4.params=
+comment4.target=java.awt.Image\ getFinish()
+comment5.params=x\ y
+comment5.target=java.lang.String\ getMap(int,\ int)
+comment6.params=
+comment6.target=void\ openFile()
+comment7.params=
+comment7.target=void\ readFile()
+comment8.params=
+comment8.target=void\ closeFile()
+numComments=9
